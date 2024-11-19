@@ -73,3 +73,8 @@ To run this project, you will need the following libraries:
 2. Navigate to the project directory:
    
    cd Liver_Prediction
+
+## Contact
+For any inquiries, please contact:
+ - Linkedin : [Reetesh kumar](https://www.linkedin.com/in/reetesh-kumar00/)
+   
