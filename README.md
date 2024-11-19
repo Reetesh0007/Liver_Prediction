@@ -21,13 +21,13 @@ The following machine learning models were used for prediction:
 
 - AdaBoost
 
-- Logistic Regression
-
 - Decision Tree
 
 - Random Forest
 
 - LightGBM
+
+- Bagging
 
 ## Project Structure
 
